@@ -44,7 +44,7 @@ Procedure
             present information. LSTM basically has a memory cell that can remember information
             for a long time.
             
-4 Methodology and Results
+5 Methodology and Results
             In this work, we first investigate the data supplied by Twitter. We focus on the nature
             of the data and visualize it while examining it. This enables us to determine the
             proportion of each tweet. We extract the data that is required based on the knowledge
