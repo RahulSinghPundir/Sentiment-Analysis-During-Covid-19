@@ -15,8 +15,6 @@ Procedure
             3. Neutral
             4. Negative
             5. Extremely Negative
-        
-Twitter Dataset Image
 2. Preprocessing
             In preprocessing we have several task to perform like:
             a. Selecting Features
